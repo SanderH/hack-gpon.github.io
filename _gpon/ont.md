@@ -32,6 +32,8 @@ Currently, there are only a few main GPON chipset vendors:
     * BCM68 series
 - MediaTek/Econet
     * MT/EN752 series (EN7520T HSGMII)
+- Zaram
+    * ZX300
 
 ## Realtek Chipsets
 
